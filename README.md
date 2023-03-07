@@ -1,2 +1,2 @@
 My first readme
-lisa Isimbi
+as an ALX software engineer
